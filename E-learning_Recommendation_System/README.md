@@ -10,4 +10,4 @@
 - Loss: Mean Squared Error
 - Evaluation: RMSE
 
-**Usage:** Run `notebooks/recommendation_system.ipynb` for full workflow.
+**Usage:** Run `notebooks/e_learning_recommendation.ipynb` for full workflow.
